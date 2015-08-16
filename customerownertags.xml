@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="customerownerstyle.xsl"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="customerownerschema.xsd">
+	<custowner>
+		<name>Adam Ant</name>
+		<phone>313-111-1111</phone>
+		<cellphone>313-111-1234</cellphone>
+		<email>adam@aol.com</email>
+	</custowner>
+	<custowner>
+		<name>Anna Dillinger</name>
+		<phone>586-478-9856</phone>
+		<cellphone>586-401-5487</cellphone>
+		<email>dillinger@comcast.net</email>
+	</custowner>
+	<custowner>
+		<name>Anna Jones</name>
+		<phone>586-478-9856</phone>
+		<cellphone>586-401-5487</cellphone>
+		<email>jones@comcast.net</email>
+	</custowner>
+	<custowner>
+		<name>April Roberts</name>
+		<phone>586-559-8764</phone>
+		<cellphone>586-701-8754</cellphone>
+		<email>april@gmail.com</email>
+	</custowner>
+	<custowner>
+		<name>Bateman Michael</name>
+		<phone>586-913-5555</phone>
+		<cellphone>586-913-5555</cellphone>
+		<email>mbitterman@ymail.com</email>
+	</custowner>
+	<custowner>
+		<name>Bob Barker</name>
+		<phone>313-222-2222</phone>
+		<cellphone>313-222-1234</cellphone>
+		<email>bob@aol.com</email>
+	</custowner>
+	<custowner>
+		<name>Brandon Struck</name>
+		<phone>586-433-6790</phone>
+		<cellphone>586-903-7423</cellphone>
+		<email>bstruck89@yahoo.com</email>
+	</custowner>
+	<custowner>
+		<name>Carol Conner</name>
+		<phone>313-333-3333</phone>
+		<cellphone>313-333-1234</cellphone>
+		<email>carol@aol.com</email>
+	</custowner>
+	<custowner>
+		<name>Chad Axch</name>
+		<phone>586-555-4763</phone>
+		<cellphone>586-301-9842</cellphone>
+		<email>ChadA@gmail.com</email>
+	</custowner>
+	<custowner>
+		<name>Cristoforo Matt</name>
+		<phone>586-658-9874</phone>
+		<cellphone>248-698-2365</cellphone>
+		<email>matcristoforo@gmail.com</email>
+	</custowner>
+	<custowner>
+		<name>Doe John</name>
+		<phone>123-456-7890</phone>
+		<cellphone>098-765-4321</cellphone>
+		<email>everyone@hotmail.com</email>
+	</custowner>
+	<custowner>
+		<name>Doe John</name>
+		<phone>248-246-5555</phone>
+		<cellphone>248-555-2468</cellphone>
+		<email>johndoe@gmail.com</email>
+	</custowner>
+	<custowner>
+		<name>Doug Catchpole</name>
+		<phone>586-399-1411</phone>
+		<cellphone>586-301-7498</cellphone>
+		<email>no e-mail</email>
+	</custowner>
+	<custowner>
+		<name>Fanthon Amanda</name>
+		<phone>586-262-4533</phone>
+		<cellphone>586-770-1460</cellphone>
+		<email>afanthon@yahoo.com</email>
+	</custowner>
+	<custowner>
+		<name>Fanthon James</name>
+		<phone>586-262-4533</phone>
+		<cellphone>586-873-9596</cellphone>
+		<email>jfanthon@comcast.net</email>
+	</custowner>
+	<custowner>
+		<name>Haylee Higgins</name>
+		<phone>no phone    </phone>
+		<cellphone>586-854-8595</cellphone>
+		<email>princezz1031@yahoo.com</email>
+	</custowner>
+	<custowner>
+		<name>Jack Lancer</name>
+		<phone>586-698-4258</phone>
+		<cellphone>586-401-7845</cellphone>
+		<email>no e-mail</email>
+	</custowner>
+	<custowner>
+		<name>Jackie Griffen</name>
+		<phone>586-555-8329</phone>
+		<cellphone>586-301-7698</cellphone>
+		<email>Grifyndor@yahoo.com</email>
+	</custowner>
+	<custowner>
+		<name>Jacksonn Susan</name>
+		<phone>586-559-7777</phone>
+		<cellphone>586-204-8595</cellphone>
+		<email>QuigM@yahoo.com</email>
+	</custowner>
+	<custowner>
+		<name>Jacob Blake</name>
+		<phone>586-555-3987</phone>
+		<cellphone>586-301-4795</cellphone>
+		<email>BlackJac@gmail.com</email>
+	</custowner>
+	<custowner>
+		<name>Jason Cook</name>
+		<phone>586-555-3893</phone>
+		<cellphone>no phone    </cellphone>
+		<email>no e-mail</email>
+	</custowner>
+	<custowner>
+		<name>Jason Kingston</name>
+		<phone>586-555-1298</phone>
+		<cellphone>586-801-7942</cellphone>
+		<email>TheKing@yahoo.com</email>
+	</custowner>
+	<custowner>
+		<name>Jeff Gregory</name>
+		<phone>586-478-1245</phone>
+		<cellphone>586-601-7615</cellphone>
+		<email>Jgreg@yahoo.com</email>
+	</custowner>
+	<custowner>
+		<name>John Marshall</name>
+		<phone>586-555-2005</phone>
+		<cellphone>586-555-2006</cellphone>
+		<email>marshall@comcast.net</email>
+	</custowner>
+	<custowner>
+		<name>Justin Verlander</name>
+		<phone>313-572-8764</phone>
+		<cellphone>412-701-8754</cellphone>
+		<email>justinV@tigers.org</email>
+	</custowner>
+	<custowner>
+		<name>Lamson Andrew</name>
+		<phone>no phone    </phone>
+		<cellphone>586-850-5619</cellphone>
+		<email>alamson@gmail.com</email>
+	</custowner>
+	<custowner>
+		<name>LeMay Joe</name>
+		<phone>no phone    </phone>
+		<cellphone>586-943-9001</cellphone>
+		<email>joerleduc@gmail.com</email>
+	</custowner>
+	<custowner>
+		<name>LeMay Mike</name>
+		<phone>586-897-6543</phone>
+		<cellphone>no phone    </cellphone>
+		<email>mike@email.com</email>
+	</custowner>
+	<custowner>
+		<name>Martha Quigley</name>
+		<phone>586-559-7777</phone>
+		<cellphone>586-204-8595</cellphone>
+		<email>QuigM@yahoo.com</email>
+	</custowner>
+	<custowner>
+		<name>Martin Samuels</name>
+		<phone>586-555-9867</phone>
+		<cellphone>586-601-4785</cellphone>
+		<email>SamTheMan@gmailcom</email>
+	</custowner>
+	<custowner>
+		<name>Martina Shelton</name>
+		<phone>586-745-4965</phone>
+		<cellphone>586-230-4320</cellphone>
+		<email>martasheltie@hotmail.com</email>
+	</custowner>
+	<custowner>
+		<name>Mary Quinn</name>
+		<phone>586-559-7777</phone>
+		<cellphone>586-204-8595</cellphone>
+		<email>QuinnM@yahoo.com</email>
+	</custowner>
+	<custowner>
+		<name>Michael Lefbowitz</name>
+		<phone>586-555-9847</phone>
+		<cellphone>586-501-7397</cellphone>
+		<email>MLeaf@comcast.net</email>
+	</custowner>
+	<custowner>
+		<name>Miguel Cabrera</name>
+		<phone>313-521-9856</phone>
+		<cellphone>248-401-5487</cellphone>
+		<email>miguelC@tigers.org</email>
+	</custowner>
+	<custowner>
+		<name>Mike Walker</name>
+		<phone>586-555-2008</phone>
+		<cellphone>586-555-2009</cellphone>
+		<email>walker@comcast.net</email>
+	</custowner>
+	<custowner>
+		<name>Patricia Jones</name>
+		<phone>586-555-9876</phone>
+		<cellphone>586-401-6523</cellphone>
+		<email>PattyCake @gmail.com</email>
+	</custowner>
+	<custowner>
+		<name>Paul Jones</name>
+		<phone>586-555-9876</phone>
+		<cellphone>586-201-7841</cellphone>
+		<email>Paulie@comcast.net</email>
+	</custowner>
+	<custowner>
+		<name>Prince Fielder</name>
+		<phone>313-87-7777 </phone>
+		<cellphone>248-204-8595</cellphone>
+		<email>princeF@tigers.org</email>
+	</custowner>
+	<custowner>
+		<name>Raja Rakesh</name>
+		<phone>586-559-8764</phone>
+		<cellphone>586-701-8754</cellphone>
+		<email>RopA@gmail.com</email>
+	</custowner>
+	<custowner>
+		<name>Raja Shreya</name>
+		<phone>586-555-9867</phone>
+		<cellphone>586-601-4785</cellphone>
+		<email>SamTheMan@gmailcom</email>
+	</custowner>
+	<custowner>
+		<name>Rapley Katie</name>
+		<phone>no phone    </phone>
+		<cellphone>586-3812895 </cellphone>
+		<email>pinknerf@yahoo.com</email>
+	</custowner>
+	<custowner>
+		<name>Roberta Menchu</name>
+		<phone>586-504-2228</phone>
+		<cellphone>no phone    </cellphone>
+		<email>no e-mail</email>
+	</custowner>
+	<custowner>
+		<name>Rosaro Mary</name>
+		<phone>586-458-6932</phone>
+		<cellphone>248-587-4585</cellphone>
+		<email>maryrosaro@yahoo.com</email>
+	</custowner>
+	<custowner>
+		<name>Samantha Ross</name>
+		<phone>no phone    </phone>
+		<cellphone>586-354-0339</cellphone>
+		<email>no e-mail</email>
+	</custowner>
+	<custowner>
+		<name>Simon Tara</name>
+		<phone>no phone    </phone>
+		<cellphone>586-555-1234</cellphone>
+		<email>tara@email.com</email>
+	</custowner>
+	<custowner>
+		<name>Smith Megan</name>
+		<phone>586-458-6321</phone>
+		<cellphone>248-589-1296</cellphone>
+		<email>megansmith@gmail.com</email>
+	</custowner>
+	<custowner>
+		<name>Sue Wilson</name>
+		<phone>586-555-2001</phone>
+		<cellphone>586-555-2002</cellphone>
+		<email>wilson@gmail.com</email>
+	</custowner>
+	<custowner>
+		<name>Susan Johnson</name>
+		<phone>248-650-8829</phone>
+		<cellphone>248-450-8877</cellphone>
+		<email>sjohnson145@gmail.com</email>
+	</custowner>
+	<custowner>
+		<name>Tara Roswell</name>
+		<phone>no phone    </phone>
+		<cellphone>586-719-2710</cellphone>
+		<email>justrosie@gmail.com</email>
+	</custowner>
+	<custowner>
+		<name>Theodore Turner</name>
+		<phone>586-555-9876</phone>
+		<cellphone>no phone    </cellphone>
+		<email>no e-mail</email>
+	</custowner>
+	<custowner>
+		<name>Thomas Griffen</name>
+		<phone>586-555-8329</phone>
+		<cellphone>586-601-7348</cellphone>
+		<email>Griffie@comcast.net</email>
+	</custowner>
+	<custowner>
+		<name>Venske Mark</name>
+		<phone>no phone    </phone>
+		<cellphone>734-788-2227</cellphone>
+		<email>venske@gmail.com</email>
+	</custowner>
+	<custowner>
+		<name>Warren Tanner</name>
+		<phone>586-555-1873</phone>
+		<cellphone>no phone    </cellphone>
+		<email>WarrenT@att.net</email>
+	</custowner>
+	<custowner>
+		<name>Wilson Melisa</name>
+		<phone>111-111-1111</phone>
+		<cellphone>555-555-5555</cellphone>
+		<email>bateman19m@att.net</email>
+	</custowner>
+</list>
